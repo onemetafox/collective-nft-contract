@@ -17,7 +17,7 @@ Open [https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-test
 
 Clone the repository to your local drive.
 ```bash
-$ git clone https://github.com/johni1228/computer-nft
+$ git https://github.com/todaycodemaster/collective-nft-contract.git
 ```
 
 Update your truffle configuration file.
